@@ -1,0 +1,517 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A book of directions and cures done by that safe and successful medicine, called, Nendick's popular pill deservedly so called for it's special vertues in curing that popular disease, the scurvy : which corrupts the blood  this pill cures, by cleansing of the blood, purging by urine, and gently by stool.</title>
+            <author>Nendick, Humphrey.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52780</idno>
+            <idno type="STC">Wing N420</idno>
+            <idno type="STC">ESTC R36924</idno>
+            <idno type="EEBO-CITATION">16156665</idno>
+            <idno type="OCLC">ocm 16156665</idno>
+            <idno type="VID">104913</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52780)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104913)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1598:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A book of directions and cures done by that safe and successful medicine, called, Nendick's popular pill deservedly so called for it's special vertues in curing that popular disease, the scurvy : which corrupts the blood  this pill cures, by cleansing of the blood, purging by urine, and gently by stool.</title>
+                  <author>Nendick, Humphrey.</author>
+               </titleStmt>
+               <extent>[8] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1677?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at foot of p. [1]: by me, Humphrey Nendick.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Patent medicines --  England.</term>
+               <term>Advertising --  Medicine --  England.</term>
+               <term>Scurvy.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Apex CoVantage</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="directions">
+            <pb facs="tcp:104913:1"/>
+            <pb facs="tcp:104913:1" rendition="simple:additions"/>
+            <head>A Book of Directions And Cures done by that Safe and Succeſsful Medicine, CALLED, <hi>Nendick's Popular Pill</hi>
+            </head>
+            <head type="sub">
+               <figure>
+                  <figDesc>a man taking medicine, with a wasted leg supported on a footstool</figDesc>
+               </figure> Deſervedly ſo called for it's Special Vertues in Curing that Popular Diſeaſe the Scurvy. Which corrupts the Blood This Pill Cures, By Cleanſing of the Blood, Purging by Urine, and gently by Stool.</head>
+            <p>Some Diſeaſes are Fa<g ref="char:EOLhyphen"/>miliar to ſome Nations, which others are free from; as <hi>Leproſie</hi> in <hi>Ae<g ref="char:EOLhyphen"/>gypt,</hi> ſwell'd Throats in the <hi>Alpes,</hi> the POX in ſome Parts of the <hi>Indies;</hi> ſo in theſe Parts our <hi>popu<g ref="char:EOLhyphen"/>lar Diſeaſe</hi> is the <hi>Scurvy</hi>
+            </p>
+            <p>For the Scurvy this Pill is Commended by all People.</p>
+            <p>It has done ſo much good, has been Experienced ſo many years, that you can hard<g ref="char:EOLhyphen"/>ly ask any one what's is beſt for the Scurvy to take at the Wells, or to carry to Sea, but you will be adviſed unto this Pleaſant Pill for no violent Phyſick is good for the Scurvy,</p>
+            <div type="warning_against_imitations">
+               <head>A Caution to thoſe not well acquainted with this Pill.</head>
+               <p>THat you may not miſtake by Counterfeit Bills and Papers which may be worded like mine, and ſo buy the wrong Pills to your prejudice, as ſome have complain<g ref="char:EOLhyphen"/>ed that they have lately been ſo deceived; therefore take Notice that this Pill was ne<g ref="char:EOLhyphen"/>ver put out or made by any one but by me, and with each Box is always given one of theſe Books of Directions, Cures &amp; Obſervations worth peruſal, with my name thus.</p>
+               <p>By me <hi>Humphrey Nendick,</hi> at the Two black Poſts in
+<hi>Bell yard</hi> in Great <hi>Carter-Lane,</hi> near St. <hi>Pauls</hi> Church-yard.</p>
+            </div>
+            <div type="effectiveness">
+               <div type="part">
+                  <pb facs="tcp:104913:2"/>
+                  <head>The Nature of the Scurvy.</head>
+                  <p>THe <hi>Scurvy</hi> is the <hi>Original</hi> of moſt
+<hi>Chronick Diſeaſes,</hi> from <hi>ſtoppage</hi> or
+<hi>obſtructi<g ref="char:EOLhyphen"/>ons,</hi> raiſing Vapours that cauſe Swimming and diſſineſs in the Head, Drouſi<g ref="char:EOLhyphen"/>neſs, makes the Body dull and heavy; it alters the Complexions, cauſes Fluſhings in the Face, Worms, black, looſe, &amp; aking Teeth, ſore &amp; bloody Gums, ſtrong &amp; ſtink<g ref="char:EOLhyphen"/>ing Breath, ſtraitneſs of Breath, difficulty in breathing, ready to die, ſour Belchings, waterineſs at <hi>ſtomach, wearineſs, weakneſs of the Limbs, faint ſweats</hi> towards Morning.</p>
+                  <p>Oftentimes cauſeth Barrenneſs, ſometimes Spots, red, blewiſh, or purple in the Legs, in ſome it is like Flea-bites, or itching watry <hi>pimples,</hi> like the ſtinging of <hi>nettles;</hi> it cauſeth windineſs in the veins, cramps,—alſo heats and prickings in the Blood.</p>
+                  <p>In many the <hi>Scurvy</hi> holds them with violent
+<hi>pains</hi> in divers parts of the Body, others again only wandring pains, heats, and twitchings up and down; in ſome it breaks out in ſcurff, tettars, dry ſcabs in Head, Face or Body; ſometimes with great Itchings.</p>
+                  <div type="part">
+                     <head>How to Prevent and Cure the Scurvy.</head>
+                     <p>WHen the <hi>Scurvy</hi> hath got firm footing, it is the worſt of all Diſeaſes, it will be like the <hi>Spleen</hi> in ſome, like a <hi>Conſumption</hi> in another, like the <hi>Gout</hi> in others, like the <hi>Pox</hi> in others, that many that have had it, fear they are ſtill amiſs; becauſe they miſs the right Medicine, not thinking they have the <hi>Scurvy,</hi> which is the cauſe ſo many lie lingring, under ſo many Diſeaſes, and can get no cure; when as now and then taking the Pills, would prevent ſuch Diſeaſes, and preſerve health.</p>
+                  </div>
+                  <div type="treatment">
+                     <head>This Pill is the True Antidote againſt the Scurvy.</head>
+                     <p>THis Pill diverts that Rhume that falls on the Teeth, pains them, rots and fouls them, makes them looſe, makes the Gums ſore and waſt. This Pill doth abſo<g ref="char:EOLhyphen"/>lutely hinder a Stinking Breath that uſually attends thoſe that have the <hi>Scurvy.</hi>
+                     </p>
+                     <p>Spring and Fall being the chief times to purge in, to carry off the Reliques of a<g ref="char:EOLhyphen"/>ny Diſeaſe; therefore thoſe that expect Remembrances <hi>Spring</hi> and <hi>Fall</hi> of Diſeaſes &amp; Pains they are ſubject unto, may cure and hinder the old grudges of their Diſeaſe.</p>
+                  </div>
+               </div>
+               <div type="part">
+                  <head>This Pill removes all Aches, Pains, and Settled Humours.</head>
+                  <p>
+                     <hi>M. Tho. Coppers</hi> Wife in <hi>Cantly</hi> in
+<hi>Norfolk</hi> was lame in all her joynts; ſhe had ſix<g ref="char:EOLhyphen"/>teen weeks trial of Doctors, and Medicines ſold, yet all in vain; by my Pills was ſo ſpeedily cured, that ſhe rode to <hi>Norwich</hi> to publiſh how great a Cure ſhe had received by theſe Pills.</p>
+                  <p>
+                     <hi>M. Forſtal</hi> Grocer in <hi>Canterbury,</hi> with a doſe or two of Pills, cured a Woman, that for Pains, Lameneſs, and other weakneſs, had been bed-rid above a year before.</p>
+                  <p>The Wife of <hi>John Day</hi> of St. <hi>Margets</hi> in
+<hi>Southelman</hi> in <hi>Suffolk,</hi> was by theſe Pills ſoon eaſed of the <hi>Gout,</hi> and cured of a Dropſical humour and <hi>Scurvy.</hi>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>This Pill brings away Gravel, and cleanſes the Reins.</head>
+                  <p>BY <hi>
+                        <g ref="char:V">Ʋ</g>rine</hi> it brings away ſand and Gravel,<hi>cleanſes the Reins</hi> and Bladder from all ſhiny matter, and eaſes any <hi>heat of <g ref="char:V">Ʋ</g>rine,</hi> and cures the <hi>Running of the Reins.</hi>
+                  </p>
+                  <p>Theſe Pills brought blood, ſlime, and filthy matter, from M. <hi>Wormwood</hi> in <hi>Wisbich,</hi> and made his <g ref="char:V">Ʋ</g>rine come freely, who was near dead before with ſtoppage of <g ref="char:V">Ʋ</g>rine and pain.</p>
+                  <p>
+                     <pb facs="tcp:104913:2"/>In <hi>Oundle</hi> or thereab<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uts, ae Friend of <hi>M. Filbridges,</hi> had cure of great Stiches, Va<g ref="char:EOLhyphen"/>pours and bloody <g ref="char:V">Ʋ</g>rine, when left off as paſt help, by the beſt Phyſicians in thoſe parts.</p>
+               </div>
+               <div type="part">
+                  <head>This is the beſt Pill for Ulcers of the Kidneys, Reins, or Bladder.</head>
+                  <p>
+                     <hi>M. Simpſon</hi> Joyner, near the <hi>Gatehouſe</hi> at
+<hi>Weſtminſter,</hi> had preſent good by theſe Pills for ſtuff like Lime and Greaſe came away in water, with pain: he made it into a ball and keeps it; now it is dry, it is hardiſh like a ſtone; this Pill carried off this matter.</p>
+                  <p>
+                     <hi>Mr. Sy. Forſters</hi> Child in <hi>Newton</hi> near
+<hi>Wisbich,</hi> had its water ſtopt ſo long, that a Sur<g ref="char:EOLhyphen"/>geon was to force a paſſage; but by the firſt doſe of theſe Pills, much filthy bloody matter, and gravel came with abundance of water, and ſaved the Child, as it has done many ſince.</p>
+               </div>
+               <div type="part">
+                  <head>It Cures Bloody Urine, Stoppage of Urine, and Stone&amp;,</head>
+                  <p>YOu will have thanks for commending this Pill to any that have a Conſumption or waſting of the Kidneys, Stoppage, Ulcer in the Kidneys or Bladder, Bloody Urine; it hinders the Stone from growing, diſſolves it Daily and diminiſhes it.</p>
+               </div>
+               <div type="part">
+                  <head>This Pill cures Vapours, Womb-diſeaſes, and Stoppages.</head>
+                  <p>MOre cannot be done by any Medicine, upon inward waſtures of Nature; it ſtrengthens weak backs, ſtaies all moiſtures or whites, got by any wrench or o<g ref="char:EOLhyphen"/>ver ſtrains, all womb diſeaſes or bearings down that cauſe barrenneſs in hundreds.</p>
+                  <p>If any one diſcloſe their Condition to me, that is troubled with any bearing down, I can adviſe them to cure it, without pain, and ſo as it ſhall keep well for ever.</p>
+                  <p>Beſides in elder Women that are liable to have Cancers in their breaſts, Womb, <hi>Noli me tangere,</hi> and divers Diſeaſes, when the courſe of Nature is ſtopt: this Pill hinders them from flying upwards or ſtriking in, and makes them go off k<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ndly: purging with this Pill Carries off theſe evils which comes from theſe ſtoppages.</p>
+                  <p>
+                     <hi>A poor Woman came from</hi> Kilgarren <hi>in</hi> Wales
+<hi>to lie in</hi> Cardigan, <hi>to get Cure of a ſore Diſtemper, but to compleat her miſery, ſhe was left pennileſs, and uncured; yet by a Box of my Pills, which were given her by</hi> Mr. Griffith <hi>in</hi> Cardigan,
+<hi>ſhe was Cured; they did ex<g ref="char:EOLhyphen"/>pel wind, brought away ſtore of Gravel, Water, and Blood, and ſhe returned home well, that in three years before had not had the right benefit of Nature, much more might be ſaid.</hi>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>It cures old Sores, the Evil, Swellings, &amp; Breakings-out.</head>
+                  <p>
+                     <hi>THis Pill Purifies the whole body by purging, and Sweetning the Blood by which way it mightily haſtens the Cure of</hi> ſore Breaſts, ſore Throats, Piles, ſcald Heads, Scabs, Old ſores. It kills any Tettar, and all ſorts of breakings out or ſalt Humours whatever.</p>
+                  <p>In <hi>Dublin</hi> was Cured Judge <hi>Halſeys</hi> ſon of the <hi>Kings-evil,</hi> he had been touched many Years before, the ſores was verily thought incureable, but my Pills fails not in that Cure.</p>
+                  <p>One whole Box of Pills cured <hi>Mrs. Katherine Basket</hi> of
+<hi>Cranbourn</hi> of a ſalt Tettariſh Humour ſhe had many Years Spring and Fall, and extreamly ſtopt up with Phlegme.</p>
+                  <p>By theſe Pills <hi>William Kirk,</hi> the Counteſs of
+<hi>Lincolns</hi> Gardiner was cured, when his Arm and Hand began to rot, by an Humour as fell into them, and ſaved the uſe of his Hand.</p>
+               </div>
+               <div type="part">
+                  <head>Directions for Purging, Letting-Blood, and Iſſues.</head>
+                  <p>PUrge with this Pill after the <hi>Small Pox, Agues,</hi> or a fit of Sickneſs, Purge thoſe that come out of the Country or from Sea, if you intend to be let blood, Purge, a Day or two before, or dry up an Iſſue, this Pill by Purging makes Iſſues run well.</p>
+               </div>
+               <div type="part">
+                  <pb facs="tcp:104913:3"/>
+                  <head>For old Bruiſes, Colds, Surfeits, and all inward Griefs.</head>
+                  <p>THis Pill brings away clotted Blood, Filth and Matter by Stool and Urine, where<g ref="char:EOLhyphen"/>by many inward Diſeaſes have been cured, as Impoſtumes, Falſe Conceptions Ulcers in the Bladder, and Womb, and hurts occaſioned by inward bruiſes or Old Colds and Surfeits of many years ſtanding, which otherwiſe muſt have ended in Death</p>
+               </div>
+               <div type="part">
+                  <head>This Pill carries off the very Matter that breeds Worms in Old or Young.</head>
+                  <p>A bunch and one link of Worms knotted, above five yards and a half long, came away by the Pills; This account came from <hi>Mr.</hi> Daniel Treacher in <hi>Sarrat.</hi>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>For over-Fatneſs, Pimples, and Heat of the Liver.</head>
+                  <p>FOr thoſe that are inclining to be too fat, or overmuch ſweating or be too high coloured, and Subject to have Pimples, heat in their hands, or Soles of the Feet, nothing better to reſtore the Complection, when loſt by the Green-ſickneſs, or <hi>Scurvy.</hi>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>For all Diſtempers of the Head and St<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mach</head>
+                  <p>
+                     <hi>AS Head ach Vertigo and lightneſs of Head. Noiſes and Hard hearing, Rhuemy Eyes or Impoſtumes;</hi> helps bad digeſtion, Vomiting, or any thing amiſs at the ſtomach. Its beyond any Medicine for thoſe Naturally bound or hot bodied, which is bad for the Head, b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ing uſed by many for that purpoſe to keep the body looſe and open.</p>
+                  <p>Mrs. K<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rton
+<hi>in</hi> Glean-Ailey <hi>in</hi> South-wark <hi>cured of pain in the Head and bad Eyes.</hi>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>The Cure of a ſore Breaſt, Impoſtume, and Head-ach.</head>
+                  <p>C<g ref="char:V">Ʋ</g>red a Woman in <hi>Chard</hi> left off by two Doctors, becauſe the <hi>Scurvy</hi> had brought her unto a Hectick Conſumption, her Breaſts ſwelled ſo hard that one that uſe to draw Bre<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſts could not but wiſhed her to try theſe Pills, which preſently brought away an Impoſtume that runout of her Ears, and cured her of an Old Head ach ſhe had from a Child: She has had a Childer two ſince this Cure, and is ſtill very healthy, her Breaſt and Head remain well.</p>
+               </div>
+               <div type="part">
+                  <head>Collick-ſtones brought away by theſe Pills.</head>
+                  <p>THe Wife of Mr. <hi>Ives</hi> Hat Maker in <hi>Cowlane</hi> in
+<hi>Weſt-Smithfield</hi> had many ſtones cane away by ſtool, one ſtone very big and troubleſome; the Pills Purged very kindly; next time came away many other ſmall ſtones by <g ref="char:V">Ʋ</g>rine, by <hi>Gods Bleſſing</hi> thereon.</p>
+                  <p>This Pill aſſwages Windy <hi>Ruptures,</hi> and great
+<hi>Swellings</hi> of the Cods, where Truſſes do us good, it always doth good, it allays <hi>Vapours Riſings,</hi> and Fits of the <hi>Mother,</hi> or
+<hi>Collick,</hi>
+                  </p>
+                  <p>This Pill helps the Spleen, Stiches, <hi>Running Pains, or any Windy Humour.</hi>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>Other Remarkable Cures.</head>
+                  <p>BY the uſe of theſe Pills, <hi>Thomas Whitehead</hi> of
+<hi>Bruton,</hi> was cured of a great Pain at his ſtomach that had afflicted him above 20 Years, after other Pills had fail'd.</p>
+                  <p>A School Mrs. above fourſcore, in <hi>St. Margat Southelman;</hi> her fleſh peel'd and was like a Lepar, her Thighs, and Leggs turn'd black and ſwell'd one Leg as big as two; was given over by the Doctors thereabouts. Yet ſhe was recovered by theſe Pills, and remains well.</p>
+                  <p>A Man 72 Years Old, all his Body ſwell'd to his Face, had a great Cough<g ref="char:punc">▪</g> ſpit Blood, the Phlegme ſo clammy, he could not get it out without help, he was ſo weak, a few of theſe Pills he had from <hi>Mrs. Atkins in Chard,</hi> they recovered him, when all yielded him for Dead.</p>
+                  <p>A Gentleman of 65 who had long loſt the uſe of his Arm, and could not lift a Cup to his M<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uth, had the uſe of his Limbs by a few Pills he had of <hi>Mr. Thomas of Sallop.</hi>
+                  </p>
+                  <p>
+                     <pb facs="tcp:104913:3"/>In <hi>Wallum-Green</hi> near <hi>Fulham, Mr. Buckels</hi> Child had a ſalt Humour in his Leg, and other ſwellings, that run like a Tap, and could not be ſtopped; it was born with it, but was Cured by this Pill, and is now very well and luſty, for they are falſe and ſure for Children.</p>
+               </div>
+               <div type="part">
+                  <head>
+                     <hi>This Pill is very proper for a Looſneſs, the Pyles, or Bloody Stools,</hi> Over fulneſs of Blood and Humors, or if the blood be too thick or too hot.</head>
+                  <p>Thoſe that have ſold my Pills any time, can inform you what Cures have been wrought thereabouts, for one tells and adviſes another to theſe Pills for the <hi>Scurvy.</hi> And they do much good which encourages Doctors themſelves, as well as other People to ſend for my Pills by ehe Carrier or Poſt, when thoſe that ſell my Pills are long without, which tis not my fault.</p>
+               </div>
+            </div>
+            <div type="application">
+               <div type="part">
+                  <head>He that hath this Pill at Sea hath his Doctor with him.</head>
+                  <p>FOr ſuch as go to Sea this Pill cannot be valued, or for any that live near the Fens or Sea-coaſts, who are of all People the moſt afflicted with the Scurvy; a better cannot be carried to Sea: For any Diſeaſe, and it laſts good the longeſt Voyages.</p>
+                  <floatingText type="letter" xml:lang="eng">
+                     <body>
+                        <head>The Abſtract of a Letter from Mr. <hi>George Macey</hi> Merchant in <hi>London.</hi>
+                        </head>
+                        <opener>
+                           <dateline>Point <hi>Cagua</hi>
+                              <date>14. <hi>Jan.</hi> 1672.</date>
+                              <hi>Jamaica.</hi>
+                           </dateline>
+                           <salute>Dear Doctor,</salute>
+                        </opener>
+                        <p>This to to acquaint you how happy I was in taking a few Boxes of your <hi>Po<g ref="char:EOLhyphen"/>pular Pill</hi> with me to Sea, our Doctor being ſick, his Mate Dead, and others ſick aboard I uſed this Pill and recovered the Ships Company; next our Doctor and three more Drinking Palm Wine aſhore, had a <hi>Fettiſh</hi> given them it is a weed that the Blacks bruiſe and keep un<g ref="char:EOLhyphen"/>der their Nails, and infect the brims of their
+<hi>Calabaſh</hi> or Cup, and ſo poyſon any they bear a grudge unto, that they dye what time after they deſigne; I uſed this Pill again, and recovered them, and was courted for it, but ſpared none unleſs to <hi>Min Heer Van Ganſopoel</hi> General of <hi>Morea</hi> Caſtle; I wiſh I had a good quantity, they would turn to account; this Pill can<g ref="char:EOLhyphen"/>not be extolled beyond its worth;</p>
+                        <byline>
+                           <hi>This by Capt.</hi> John Collins of the Province.</byline>
+                     </body>
+                  </floatingText>
+                  <p>
+                     <hi>Let them confide in this Pill, that have had thoſe Poyſonous Diſeaſes the</hi> Pox, <hi>or</hi> Running of the Reins,
+<hi>had it ſtopt too ſoon, and fear they are not well Cured.</hi>
+                  </p>
+                  <p>
+                     <hi>And to juſtify my Pill above any other for this Cure, take this account following.</hi>
+                  </p>
+                  <q>
+                     <floatingText xml:lang="eng">
+                        <body>
+                           <div type="court_proceedings">
+                              <head>A Tryal in the <hi>Marſhals Court</hi> in
+<hi>Southwark,</hi> October, 29. 1675.</head>
+                              <p>The Councel moved that it was work enough for a Colledge of Phyſician to make <hi>Thomas Rotland</hi> a ſound Man; then the Witneſſes ſwore, that <hi>T. Rotland</hi> had been Purged, Blooded, Sweated, Salivated, Fluxed Diet-drinked, and had his Shins laid open, and foul bones taken away, and left off as paſt the help of Man, yet chiefly with my Pills was made well of this foul Diſeaſe, and hath remained perfectly well this ten Years without relapſe.</p>
+                           </div>
+                        </body>
+                     </floatingText>
+                  </q>
+                  <p>
+                     <hi>This was Sworn upon the Tryal in open Court as may be found upon Record. Mr.</hi> 
+                     <g ref="char:V">Ʋ</g>rwin <hi>of</hi> Cliffords-Inn <hi>was the Defendant,</hi> Rotland's <hi>Attorney.</hi>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>This Pill cures this Diſeaſe in any Country.</head>
+                  <p>WIth theſe Pills in a Fortnights time I Cured a Man, whoſe Yard rotted off; is ſufficiently known in <hi>Scroops Court,</hi> againſt St. <hi>Andrews</hi> Church in <hi>Holborn, London,</hi> it was a ſmall thing at firſt; had he come to me, or brought a few of theſe Pills, he had prevented it, but it was run too far, and ſpoiled before he came.</p>
+                  <p>If you have <hi>Scabs, Shankers, Sores,</hi> Breakings out or
+<hi>Swellings,</hi> and you would have a ſpeedy Cure, ſend, for I can help you at any diſtance or come and diſcover your Condition to me, for I never fail the Cure of that Diſeaſe, if its to be Cured by Man.</p>
+               </div>
+               <div type="part">
+                  <pb facs="tcp:104913:4"/>
+                  <head>The uſual Seaſons and times to take theſe Pills.</head>
+                  <p>TAke theſe <hi>Pills</hi> Spring and Fall, to purge the Blood, or whenſoever it is fine open Weather, to keep off the Scurvy, or purge the Reins, or now and then after h<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Drinking; nothing better to carry off ill Humours, or danger of a Surfeit.</p>
+                  <p>Theſe <hi>Pills</hi> may be taken in any Seaſon, in any Climate or for any new diſeaſe.</p>
+                  <p>This Pill procures a ſound Habit of Body, by purging the Blood.</p>
+                  <p>
+                     <hi>Tis no loathſome great Pill; and never leaves the Body bound afterwards.</hi>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>Why theſe Pills are ſo uſually taken at the Wells.</head>
+                  <p>WHen the Pills were found ſo ſafe and rare at cleering the Reins, and Purging by Urine, many people would take the Pills before &amp; when they were at the Wells, and after at the Waters, they Cure many people, by purging by Urine Cleanſ<g ref="char:EOLunhyphen"/>ing the Reins, and bladder or Sweat, when drinking of the Waters and the Bath ſalt.</p>
+               </div>
+               <div type="part">
+                  <head>What doſe may be given to Children, or Weak people.</head>
+                  <p>THoſe that purge their Family with theſe Pills in the Spring and Fall, may alſo give their Children one Pill, two, three, or four Pills, according to the Childs ſtrength. I gave my Daughter <hi>Mariamne</hi>
+3 Pills at 3 Years Old, which Cured her of a great looſneſs, and weak bed rid, Conſumptive people if they take the Doſe as beſt agrees with their ſtrength, will quickly find it a healing Balm unto them &amp; ſtreng<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hen the back.</p>
+               </div>
+               <div type="part">
+                  <head>What doſe may be given to Women with Child</head>
+                  <p>WOmen with Child may take this pill now and then without fear of miſcarriage, but it helps where weakneſs cauſes miſcarriage or barrenneſs; beſides it mends the Blood and Milk, and keeps their Children from Hereditary Diſeaſes and ſcurvy<g ref="char:punc">▪</g>
+                  </p>
+                  <p>They are mighty good for hurt got by cold in Lying in, or for any one diſtemper'd from thoſe ſtopt or ſtruck in, or have few and pale, it brings them freſh and well, tak<g ref="char:EOLhyphen"/>ing a doſe or two before the time; whereby <hi>Swellings, Tettars, Pimples, Breakings out, Stoppages,</hi> the
+<hi>Green-ſickneſs,</hi> Swellings of the Leggs and other ills are prevented.</p>
+               </div>
+               <div type="part">
+                  <head>The general Rules and order of <hi>Diet.</hi>
+                  </head>
+                  <p>EAt no Salt or windy Diet, or drink <hi>imtemperately</hi> in any Cure, but eſpecially drink no Claret, <hi>in <g ref="char:V">Ʋ</g>lcers of the Kidneys, Gravel, Heat in <g ref="char:V">Ʋ</g>rine, pricking pains, or Running of the Reins;</hi> although many are Cured, without obſerving any Order at all, but to take the pills in the largeſt doſe and conſtantly all the time of the Cure.</p>
+                  <p>White-wine, Whey, Ale, Mead, or any mild drinks are good in Stoppages of Urine, Heat or Foulneſs of the Reins, this pill cures the Whites, from any ſtrain or otherwaies.</p>
+               </div>
+               <div type="part">
+                  <head>This Pill is above all for cooling and cleanſing the Reins.</head>
+                  <head type="sub">
+                     <hi>All People Commend theſe Pills, far beyond what is expreſſed in this Book.</hi>
+                  </head>
+                  <p>
+                     <hi>MOre cannot be done for the</hi> Scurvy, all ſorts of Dropſies, and white ſwellings, or where the Fleſh pits, the Jaundice,
+<hi>Green-ſickneſs,</hi> Stoppages of Stomach, Kings-evil, Agues, Joynt pains, Aches, Scabs, Tetters, Swellings, and all Heat and Foulneſs of Blood.</p>
+                  <p>
+                     <pb facs="tcp:104913:4"/>
+                     <hi>The</hi> Running of the Reins or <hi>an Iſſue got by a ſtrain or otherwiſe, in Man or Woman, purge well with theſe Pills to keep it from a worſe Diſtemper and ſoon Cure it.</hi>
+                  </p>
+                  <p>
+                     <hi>Children infected by this Diſeaſe, or by what way ſoever, I can Cure them.</hi>
+                  </p>
+                  <p>I can perfectly Cure a <hi>Gonorrhaea Lachrimalis,</hi> or
+<hi>Gleet,</hi> in any Man.</p>
+                  <p>
+                     <hi>Note,</hi> Its a diſeaſe got many ways, and many ſober perſons have eſcaped the ſin, yet have not eſcaped the diſeaſe, therefore I have wrote ſo much, for the Pills will keep thoſe infected from being ſpoiled themſelves, or from infecting others, by purging away the Infection.</p>
+                  <p>This Pill by curing the Scurvy, Cure moſt Diſeaſes.</p>
+               </div>
+            </div>
+            <div type="instructions">
+               <head>The Full Directions.</head>
+               <div type="part">
+                  <head>How and When to take theſe Pills.</head>
+                  <p>TAke five Pills going to bed, after a light Supper, ſwallow them one by one or all at once, in pap or roſted Apple, Honey, Conſerve, or a ſpoonful of Drink, or in Sugar, or how you can beſt take them, no danger comes by ſleeping upon them, for then they give a breathing Sweat, and ſearch all parts, make you brisk &amp; hungry.</p>
+               </div>
+               <div type="part">
+                  <head>How to order your ſelf in taking theſe Pills.</head>
+                  <p>TAke them two Nights together, and miſs a Night or two, or take one Night, and miſs a Night or two, but they will not work till the Morning, and then drink ſomething warm, but eat no Meat till Noon, you may go about you occaſinos.</p>
+               </div>
+               <div type="part">
+                  <head>How many may be taken at once, and if they Vomit.</head>
+                  <p>THey are ſuch moderate Phyſick, and ſo ſafe that you may take fix Pills or more, if you can bear them, <hi>but they never Vomit,</hi> unleſs the ſtomach be foul, and could not be diſcharged any other way, for they work only as the Humours are.</p>
+               </div>
+               <div type="part">
+                  <head>Whether the Pill do Gripe.</head>
+                  <p>THeſe Pills gripe not unleſs there be much windy Matter to work upon, and never makes ſick unleſs it meets with ſome Obſtruction, or opens ſome old ſtoppage, which muſt be an exceeding benefit to Nature, either to Old or Young.</p>
+               </div>
+               <div type="part">
+                  <head>How long the Pills may be taken together.</head>
+                  <p>OFtentimes one doſe doth a great Cure, yet ſome may not find it ſo ſoon as others, for the worſer the Diſeaſe is, the longer muſt the Pills be followed, and no doubt with a thorow trial they will work the ſame Cures again and again.</p>
+               </div>
+               <div type="part">
+                  <head>How many ways the Pill works.</head>
+                  <p>THe Pills do purge very kindly by ſtool, yet effectually, they will not weaken, for violent Phyſick is bad in the <hi>Scurvy,</hi> they purge the Blood, cleanſe the Reins by Urine, expel Wind, and give eaſe and reſt in Pains by breathing Sweats.</p>
+               </div>
+               <div type="part">
+                  <head>Why the Pills work not alike at all times.</head>
+                  <p>WHen theſe <hi>Pills</hi> work not as you expect, reſt a day or two longer, take a lar<g ref="char:EOLhyphen"/>ger doſe, or bruiſe them next time; for Nature cures not always by Stool; yet even then when they ſcarce purge, they do lie in the Body, and do hurt; but cleanſes the Blood, or works ſome otherways, as Nature is moſt inclined</p>
+               </div>
+               <div type="part">
+                  <pb facs="tcp:104913:5"/>
+                  <head>Its the beſt Purge at Land or Sea, for the Scurvy.</head>
+                  <p>THat many will make no Voyage or ſcarce a Journey without carrying theſe Pills with them, which for their Infallible Operations are uſed at the <hi>Lazaretto,</hi> and <hi>Incurabile</hi> in <hi>Venice,</hi> being found the only Curer of that Popular Diſeaſe the <hi>Scurvy.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="availability">
+               <div type="price">
+                  <head>The price of the Pill, the beſt and cheapeſt of all
+<hi>Phyſick.</hi>
+                  </head>
+                  <p>THe whole Box of Forty Pills, one more or leſs is Three Shillings, the Half Box of Twenty Pills, one more or leſs is Eighteen Pence, each Tin Box is Sealed with two Croſſes and a Demi-Griffen, with each Box of Pills is given this Book of Directions.</p>
+               </div>
+               <div type="list_of_approved_outlets">
+                  <head>Theſe Pills are Sold by theſe Perſons Following.</head>
+                  <p>In <hi>Ipſwich</hi> by Mr. <hi>Wilkenſon</hi> in St.
+<hi>Peters</hi>
+                  </p>
+                  <p>In <hi>Guilford</hi> by Mr. <hi>John Betts</hi> a Barber</p>
+                  <p>In <hi>Farnham</hi> by Mr. <hi>Fryer</hi> diſtiller &amp; at
+<hi>Aulton</hi>
+                  </p>
+                  <p>In <hi>Marget</hi> by Mr. <hi>Mackrith</hi> a Grocer</p>
+                  <p>In <hi>Ramſgate</hi> by Mr. <hi>Faireman</hi>
+                  </p>
+                  <p>In <hi>Graveſend</hi> by Mr. <hi>Clark</hi> at the Coffee-houſe</p>
+                  <p>In <hi>Maidſtone</hi> by Mr. <hi>Churchil</hi>
+                  </p>
+                  <p>In <hi>Goudhurſt</hi> by Mr. <hi>Richard Puxty</hi>
+                  </p>
+                  <p>In <hi>Burnham</hi> by Mr. <hi>Brown</hi> ſales man</p>
+                  <p>In <hi>Yarmouth</hi> by Mrs. <hi>Heſter Brooks</hi>
+                  </p>
+                  <p>In Norwich by Mr. <hi>Pepys</hi> near the Elm</p>
+                  <p>In <hi>Weymouth</hi> by Mr. <hi>Reed</hi> a Grocer</p>
+                  <p>In <hi>Andover</hi> by Mr. <hi>Butcher</hi>
+                  </p>
+                  <p>In St. <hi>Edmonds-Bury</hi> by Mr. <hi>Chamberline</hi> Bookſeller</p>
+                  <p>In <hi>Beckells</hi> by Mr. <hi>Will. Cutlove</hi> a Draper</p>
+                  <p>In <hi>Cook field</hi> by Mr. Sturt</p>
+                  <p>In <hi>Plymouth</hi> by Mr. <hi>Northcote</hi> a mercer</p>
+                  <p>In <hi>Darford</hi> by Mr <hi>Hubhart</hi> at the Threadſhop</p>
+                  <p>In <hi>Rygate</hi> by Mr. <hi>Tho. Hills</hi> a Shoemaker</p>
+                  <p>In <hi>Pulham</hi> by Mr. <hi>Henry Brett</hi>
+                  </p>
+                  <p>In <hi>Sudbury</hi> in <hi>Ballendon ſtreet</hi> Mr.
+<hi>Jones</hi> Gro<g ref="char:EOLhyphen"/>cer</p>
+                  <p>In <hi>Wells</hi> by Mr. <hi>Nicholas Painter</hi>
+                  </p>
+                  <p>In <hi>Briſtol</hi> by Mrs. <hi>Hibert</hi> at 2 black poſts ſmall ſtreet</p>
+                  <p>In <hi>Chiping Sadbury</hi> by Mr. Ady a Barber</p>
+                  <p>In <hi>Newport</hi> by Mr. <hi>Thomas Young</hi> a mercer</p>
+                  <p>In <hi>Gloceſter</hi> by Mr. <hi>Ludlow</hi> Mr. <hi>Bell</hi> Milliners</p>
+                  <p>In <hi>Tuxsbury</hi> by Mr. <hi>Joſeph Sheene</hi>
+                  </p>
+                  <p>In <hi>Ledbury</hi> by Mr. <hi>Lunt</hi> Book-ſeller</p>
+                  <p>In <hi>Kington</hi> by Mr. <hi>Evans</hi> a mercer</p>
+                  <p>In <hi>Shepton mallet</hi> by Mr. <hi>Bartlet</hi> at red poſts</p>
+                  <p>In <hi>Bruton</hi> by Mr. <hi>Penny</hi> a Barbar.</p>
+                  <p>In <hi>Lemſtar</hi> by Mr. <hi>Hardwick</hi> a Glover</p>
+                  <p>In <hi>Hereford</hi> by Mr. <hi>John Nicholas</hi> a Chandler</p>
+                  <p>In <hi>Sallop</hi> by Mr. <hi>Sam. Thomas</hi> a mercer</p>
+                  <p>In <hi>Monmouth</hi> by Mr. Mainſtone a Barber Sur.</p>
+                  <p>In <hi>Wrexham</hi>
+                  </p>
+                  <p>In <hi>Tedbury</hi> by Mr. <hi>Mathew</hi> Beale a mercer</p>
+                  <p>In <hi>Bidiford</hi> by Mr. <hi>Joſias Elliot</hi>
+                  </p>
+                  <p>In <hi>Chard</hi> by Mrs. <hi>Anna Atkins</hi>
+                  </p>
+                  <p>In <hi>Taunton</hi> by Mr. <hi>Robert</hi> Button a mercer</p>
+                  <p>In <hi>Denby</hi> by Mr. <hi>John Foulks</hi> a mercer</p>
+                  <p>In <hi>Dublin</hi> by Mrs. <hi>Hyot</hi> a Stationer on cork hill</p>
+                  <p>But in all places in <hi>Ireland</hi> the half box is one and twenty pence, the whole box 3 <hi>s.</hi> 6 <hi>d.</hi>
+                  </p>
+                  <p>MAny buy theſe Pills to give their Friends a long with them to Sea, or to ſend to their Friends in the Countrys. Therefore any as deſire to ſell theſe Pills in any other Town in <hi>England</hi> or in any parts beyond Sea; may be furniſhed with them.</p>
+                  <p>By me <hi>Humphrey Nendick</hi> with any quantity of theſe Pills reaſonably.</p>
+                  <p>Theſe Pills will be delivered unto any Meſſenger at my own Houſe at the two Black Poſts within <hi>Bell-Yard</hi> in Great
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </p>
+                  <pb facs="tcp:104913:5"/>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
